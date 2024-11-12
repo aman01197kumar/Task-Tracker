@@ -7,10 +7,6 @@ Mark tasks as completed by clicking the checkmark button.
 Delete tasks by clicking the trash can icon.
 Responsive design that works well on both desktop and mobile devices.
 Project Structure:
-bash
-Copy code
-todo-list-app/
-│
 ├── index.html # HTML file containing the structure of the app
 ├── styles.css # CSS file for styling the app
 ├── script.js # JavaScript file handling app functionality
