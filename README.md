@@ -1,5 +1,3 @@
-Sure! Here's a sample README file for your Task Tracker application. This file provides a detailed overview of the project structure, features, installation, and usage instructions.
-
 Task Tracker Application
 This is a simple Task Tracker app built with HTML, CSS, and JavaScript. The app allows users to add tasks, mark them as completed, and delete tasks. It includes a visually integrated "Add" button inside the input box and basic hover effects on the "Delete" button.
 
